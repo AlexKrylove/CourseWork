@@ -1,7 +1,3 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-
 public class Service {
     public static void getListEmployee(Employee[] employees) {
         for (int i = 0; i < employees.length; i++) {
